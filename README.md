@@ -20,10 +20,3 @@ Here are some ideas to get you started:
 -->
 
 
-    gameLoop();
-});
-
-</script>
-
-</body>
-</html>
