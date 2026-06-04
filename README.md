@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=Welcome%20To%20My%20Profile&fontSize=45&fontColor=39FF14&animation=fadeIn" />
+</p>
 <h1 align="center">Hi 👋, I'm Asrorbek</h1>
 
 <p align="center">
